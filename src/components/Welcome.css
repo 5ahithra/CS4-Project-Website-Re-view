@@ -1,0 +1,7 @@
+.reviewBtn {
+  text-align: left;
+  position: absolute;
+  left: 24%;
+  top: 60%;
+  transform: translate(-50%, -50%);
+}
